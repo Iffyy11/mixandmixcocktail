@@ -41,7 +41,7 @@ This application relies on the free and open-source TheCocktailDB API to fetch c
 🤝 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please feel free to:
 
-Fork the repository.
+Fork the reposit
 
 
 
