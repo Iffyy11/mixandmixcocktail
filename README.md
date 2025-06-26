@@ -6,7 +6,7 @@ A dynamic web application built with vanilla JavaScript, HTML, and CSS that allo
 
 🔍 Advanced Filtering: Filter cocktails by alcoholic status (alcoholic, non-alcoholic, optional alcohol), category, or glass type.
 
-🎲 Random Cocktail: Discover a new drink with a single click to get a random cocktail's details.
+ Random Cocktail: Discover a new drink with a single click to get a random cocktail's details.
 
 📖 Detailed View: Click on any cocktail card to view its full details, including ingredients, measures, and instructions, in a modal.
 
