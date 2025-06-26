@@ -20,7 +20,7 @@ This project was built as part of the Phase 1 Project Guidelines, demonstrating 
 * **JavaScript (ES6+):** Core logic, API interactions, DOM manipulation, and event handling.
 * **TheCocktailDB API:** Provides the cocktail data (recipes, images, ingredients, etc.).
 
-## Getting Started 🛠️
+## Getting Started 🛠
 
 ### Prerequisites
 Make sure you have a modern web browser installed.
