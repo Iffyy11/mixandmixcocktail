@@ -43,6 +43,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 Fork the repository.
 
-Create a new
+Create a
 
 
