@@ -1,51 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MixAndMix Cocktails</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MixAndMix Cocktails</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <header>
-        <h1>Mix<span>And</span>Mix</h1>
-        <p>Find your perfect cocktail</p>
-        <button id="theme-toggle">☀️ Light Mode</button> 
-    </header>
+  <header>
+    <h1>Mix<span>And</span>Mix</h1>
+    <p>Find your perfect cocktail</p>
+    <button id="theme-toggle">☀️ Light Mode</button> 
+  </header>
 
-    <div class="controls">
-        <div class="search-container">
-            <input type="text" id="search" placeholder="Search cocktails...">
-            <button id="search-btn">Search</button>
-        </div>
-        <div class="filter-container">
-            <select id="alcohol-filter">
-                <option value="all">All Drinks</option>
-              
-
-                <option value="category-Cocktail">Cocktail</option>
-                <option value="category-Shake">Shake</option>
-                <option value="category-Other/Unknown">Other/Unknown</option>
-                <option value="category-Cocoa">Cocoa</option>
-                
-                <option value="glass-Cocktail glass">Cocktail Glass</option>
-                <option value="glass-Highball glass">Highball Glass</option>
-                <option value="glass-Old-fashioned glass">Old-fashioned Glass</option>
-            </select>
-            <button id="random-btn">Random</button>
-            </div>
+  <div class="controls">
+    <div class="search-container">
+      <input type="text" id="search" placeholder="Search cocktails...">
+      <button id="search-btn">Search</button>
     </div>
+    <div class="filter-container">
+      <select id="alcohol-filter">
+        <option value="all">All Drinks</option>
+        <option value="alcoholic">Alcoholic</option>
+        <option value="Non_Alcoholic">Non-Alcoholic</option>
+        <option value="Optional_Alcohol">Optional Alcohol</option>
 
-    <div class="cocktail-container" id="cocktail-grid">
-        </div>
+        <option value="category-Cocktail">Cocktail</option>
+        <option value="category-Shake">Shake</option>
+        <option value="category-Other/Unknown">Other/Unknown</option>
+        <option value="category-Cocoa">Cocoa</option>
 
-    <div class="modal" id="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <div id="modal-details"></div>
-            </div>
+        <option value="glass-Cocktail glass">Cocktail Glass</option>
+        <option value="glass-Highball glass">Highball Glass</option>
+        <option value="glass-Old-fashioned glass">Old-fashioned Glass</option>
+      </select>
+      <button id="random-btn">Random</button>
     </div>
+  </div>
 
-    <script src="index.js"></script>
+  <div class="cocktail-container" id="cocktail-grid"></div>
+
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div id="modal-details"></div>
+    </div>
+  </div>
+
+  <script src="index.js"></script>
 </body>
 </html>
