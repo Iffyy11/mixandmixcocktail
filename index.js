@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
         grid: document.getElementById('cocktail-grid'),
         searchInput: document.getElementById('search'),
         searchBtn: document.getElementById('search-btn'),
-        filter: document.getElementById('alcohol-filter'),
         randomBtn: document.getElementById('random-btn'),
         modal: document.getElementById('modal'),
         closeBtn: document.querySelector('.close'),
