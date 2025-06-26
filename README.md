@@ -1,47 +1,44 @@
- MixandMixCocktail
-A dynamic web application built with vanilla JavaScript, HTML, and CSS that allows users to search, filter, and discover a wide variety of cocktails from TheCocktailDB API. Explore drink details, manage your favorite cocktails, and switch between light and dark modes for a personalized browsing experience.
-
-Features
- Cocktail Search: Find cocktails by name using the search bar.
-
-Advanced Filtering: Filter cocktails by alcoholic status (alcoholic, non-alcoholic, optional alcohol), category, or glass type.
-
- Random Cocktail: Discover a new drink with a single click to get a random cocktail's details.
-
- Detailed View: Click on any cocktail card to view its full details, including ingredients, measures, and instructions, in a modal.
-
-Favorite System: Mark cocktails as favorites, and they will be saved locally in your browser.
-
- Theme Toggle: Seamlessly switch between light and dark modes for comfortable viewing.
-
- Responsive Design: Enjoy a consistent experience across various devices and screen sizes.
-
-Technologies Used
-HTML5: For structuring the web content.
-
-CSS3: For styling and responsive design (assuming custom CSS, potentially with a framework like Tailwind CSS for the overall look if it were more complex, but here it's mainly custom).
-
-JavaScript (ES6+): For all interactive functionalities, API calls, and DOM manipulation.
-
-TheCocktailDB API: The primary data source for cocktail information.
-
-How to Use
-To run this project locally:
-
-Clone the repository:
-
-git clone <>
-cd cocktail-explorer
-
-Open index.html: Simply open the index.html file in your preferred web browser. No server setup is required as it's a client-side application.
-
- API
-This application relies on the free and open-source TheCocktailDB API to fetch cocktail data.
-
-Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, please feel free to do so.
+# MixAndMixCocktail
 
 
+MixAndMixCocktail is a dynamic web application built with HTML, CSS, and vanilla JavaScript. It allows users to search, filter, and discover a wide variety of cocktails using TheCocktailDB API. Users can explore detailed drink information, manage a list of favorite cocktails, and toggle between light and dark modes for a personalized experience.
 
+---
 
+## Features
 
+- **Cocktail Search:** Find cocktails by name using a simple and intuitive search bar.
+- **Advanced Filtering:** Filter cocktails based on:
+  - Alcohol content (Alcoholic, Non-Alcoholic, Optional Alcohol)
+  - Category (e.g., Cocktail, Shake, Cocoa)
+  - Glass type (e.g., Highball glass, Cocktail glass)
+- **Random Cocktail:** Discover a new cocktail at random with one click.
+- **Detailed View:** View full cocktail details in a modal including ingredients, measurements, and preparation instructions.
+- **Favorite System:** Mark cocktails as favorites. Favorites are saved locally in your browser.
+- **Theme Toggle:** Switch between light and dark mode for better viewing comfort.
+- **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
+
+---
+
+## Technologies Used
+
+- **HTML5** - For structuring the content.
+- **CSS3** - For layout and styling.
+- **JavaScript (ES6+)** - For dynamic functionality and interaction.
+- **TheCocktailDB API** - Used for fetching cocktail data.
+
+---
+
+## Getting Started
+
+To run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Iffyy11/mixandmixcocktail.git
+   cd mixandmixcocktail
+   View the live project on GitHub Pages:
+https://iffyy11.github.io/mixandmixcocktail
+
+This application uses the free and open-source TheCocktailDB API to retrieve all cocktail data. 
+**Author:** Ifrah Abdi
