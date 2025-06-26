@@ -4,7 +4,7 @@ A dynamic web application built with vanilla JavaScript, HTML, and CSS that allo
 ✨ Features
  Cocktail Search: Find cocktails by name using the search bar.
 
-🔍 Advanced Filtering: Filter cocktails by alcoholic status (alcoholic, non-alcoholic, optional alcohol), category, or glass type.
+Advanced Filtering: Filter cocktails by alcoholic status (alcoholic, non-alcoholic, optional alcohol), category, or glass type.
 
  Random Cocktail: Discover a new drink with a single click to get a random cocktail's details.
 
