@@ -1,4 +1,4 @@
-🍸 Cocktail Explorer
+🍸 MixandMixCocktail
 A dynamic web application built with vanilla JavaScript, HTML, and CSS that allows users to search, filter, and discover a wide variety of cocktails from TheCocktailDB API. Explore drink details, manage your favorite cocktails, and switch between light and dark modes for a personalized browsing experience.
 
 ✨ Features
