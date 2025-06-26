@@ -39,7 +39,7 @@ Open index.html: Simply open the index.html file in your preferred web browser. 
 This application relies on the free and open-source TheCocktailDB API to fetch cocktail data.
 
 🤝 Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, please feel free to:
+Contributions are welcome! If you have suggestions for improvements or new features, please feel free to do so.
 
 
 
