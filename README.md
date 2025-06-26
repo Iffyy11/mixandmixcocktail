@@ -1,7 +1,7 @@
 # MixAndMixCocktail
 
 
-MixAndMixCocktail is a dynamic web application built with HTML, CSS, and vanilla JavaScript. It allows users to search, filter, and discover a wide variety of cocktails using TheCocktailDB API. Users can explore detailed drink information, manage a list of favorite cocktails, and toggle between light and dark modes for a personalized experience.
+MixAndMixCocktail is a dynamic web application built with HTML, CSS, and  JavaScript. It allows users to search, filter, and discover a wide variety of cocktails using TheCocktailDB API. Users can explore detailed drink information, manage a list of favorite cocktails, and toggle between light and dark modes for a personalized experience.
 
 ---
 
